@@ -1,0 +1,21 @@
+{
+  "name": "sendnow",
+  "version": "1.0.0",
+  "description": "Securely share and track documents, manage access controls, and create branded data rooms with SendNow.",
+  "author": {
+    "name": "SendNow",
+    "email": "sendnow.live@gmail.com"
+  },
+  "homepage": "https://sendnow.live",
+  "keywords": [
+    "document-sharing",
+    "data-rooms",
+    "document-analytics",
+    "productivity",
+    "mcp"
+  ],
+  "logo": "logo.png",
+  "mcpServers": "mcp.json",
+  "license": "MIT",
+  "repository": "https://github.com/sendnow-live/sendnow-cursor-plugin"
+}
